@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 学习笔记 | 1、初探Git和Github
+title: 学习笔记 | 初探Git和Github
 ---
 
 零基础萌新的Git和Github探索道路
