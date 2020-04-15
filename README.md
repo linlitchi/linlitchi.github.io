@@ -2,5 +2,5 @@
 
 ## 学习笔记
 
-# 初探Git和Github
+1. 初探Git和Github
 *Date: 2020/04/15*
