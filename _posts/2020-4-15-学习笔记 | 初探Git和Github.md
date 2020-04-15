@@ -8,7 +8,6 @@ title: 学习笔记 | 初探Git和Github
 #### 参考
 * [MAC上Git安装与GitHub基本使用](https://www.jianshu.com/p/7edb6b838a2e)  
 * [『Git』知道这些就够了](https://www.bilibili.com/video/BV1BE411g7SV?t=43)
-***********
 
 ## Git部份
 
