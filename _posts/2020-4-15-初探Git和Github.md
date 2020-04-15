@@ -3,7 +3,7 @@ layout: post
 title: 初探Git和Github
 ---
 
-# 初探Git和Github
+零基础萌新的Git和Github探索道路
 
 #### 参考
 * [MAC上Git安装与GitHub基本使用](https://www.jianshu.com/p/7edb6b838a2e)  
